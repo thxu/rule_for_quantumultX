@@ -1,4 +1,13 @@
+# > Discord
+HOST-SUFFIX,discord.com,Outside
+HOST-SUFFIX,discord.gg,Outside
+HOST-SUFFIX,discord.media,Outside
+HOST-SUFFIX,discordapp.com,Outside
+HOST-SUFFIX,discordapp.net,Outside
+HOST-SUFFIX,discordstatus.com,Outside
+
 # > Google Voice
+HOST,lens.l.google.com,Outside
 HOST,voice.telephony.goog,Outside
 
 # > Investing
@@ -170,6 +179,7 @@ HOST-SUFFIX,azurewebsites.net,Outside
 HOST-SUFFIX,badoo.com,Outside
 HOST-SUFFIX,bandisoft.com,Outside
 HOST-SUFFIX,bbtoystore.com,Outside
+HOST-SUFFIX,bet365.com,Outside
 HOST-SUFFIX,betvictor.com,Outside
 HOST-SUFFIX,bigsound.org,Outside
 HOST-SUFFIX,bing.com,Outside

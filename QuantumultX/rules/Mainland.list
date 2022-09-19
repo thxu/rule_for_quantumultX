@@ -1,16 +1,17 @@
-# Mainland rules refresh time: 2022-05-30 02:41:45
+# Mainland rules refresh time: 2022-09-19 00:48:48
 
 HOST-SUFFIX,abchina.com,Mainland
 
 HOST-SUFFIX,boc.cn,Mainland
 HOST-SUFFIX,citicbank.com,Mainland
 HOST-SUFFIX,ecitic.com,Mainland
+HOST-SUFFIX,ecitic.net,Mainland
 HOST-SUFFIX,ccb.com,Mainland
 HOST-SUFFIX,ccb.com.cn,Mainland
 HOST-SUFFIX,cebbank.com,Mainland
 USER-AGENT,cmb*,Mainland
 HOST-SUFFIX,cmbchina.com,Mainland
-HOST-SUFFIX,cmbimg,Mainland
+HOST-SUFFIX,cmbimg.com,Mainland
 HOST-SUFFIX,cmbt.cn,Mainland
 HOST-SUFFIX,mbcloud.com,Mainland
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*,Mainland
@@ -70,7 +71,7 @@ IP6-CIDR,2a0b:b582::/48,Mainland
 IP6-CIDR,2a0b:b583::/48,Mainland
 IP-CIDR,182.254.116.0/24,Mainland
 HOST-SUFFIX,10010.com,Mainland
-HOST-SUFFIX,10089.cn,Mainland
+HOST-SUFFIX,10086.cn,Mainland
 HOST-SUFFIX,12306.cn,Mainland
 HOST-SUFFIX,12306.com,Mainland
 HOST-SUFFIX,126.net,Mainland
@@ -109,7 +110,6 @@ HOST-SUFFIX,baidupcs.com,Mainland
 HOST-SUFFIX,bdimg.com,Mainland
 HOST-SUFFIX,bdstatic.com,Mainland
 HOST-SUFFIX,beatsbydre.com,Mainland
-HOST-SUFFIX,bet365.com,Mainland
 HOST-SUFFIX,broadcasthe.net,Mainland
 HOST-SUFFIX,caiyunapp.com,Mainland
 HOST-SUFFIX,ccgslb.com,Mainland
@@ -128,6 +128,7 @@ HOST-SUFFIX,cnbeta.com,Mainland
 HOST-SUFFIX,cnbetacdn.com,Mainland
 HOST-SUFFIX,chdbits.co,Mainland
 HOST-SUFFIX,cnlang.org,Mainland
+HOST-SUFFIX,coolapk.com,Mainland
 HOST-SUFFIX,cz88.net,Mainland
 HOST-SUFFIX,dct-cloud.com,Mainland
 HOST-SUFFIX,didialift.com,Mainland
@@ -143,7 +144,6 @@ HOST-SUFFIX,duokan.com,Mainland
 HOST-SUFFIX,duoshuo.com,Mainland
 HOST-SUFFIX,dytt8.net,Mainland
 HOST-SUFFIX,easou.com,Mainland
-HOST-SUFFIX,ecitic.net,Mainland
 HOST-SUFFIX,eudic.net,Mainland
 HOST-SUFFIX,ewqcxz.com,Mainland
 HOST-SUFFIX,feng.com,Mainland
@@ -152,6 +152,7 @@ HOST-SUFFIX,ford.com,Mainland
 HOST-SUFFIX,frdic.com,Mainland
 HOST-SUFFIX,fresh-ideas.cc,Mainland
 HOST-SUFFIX,gameloft.com,Mainland
+HOST-SUFFIX,garmin.com,Mainland
 HOST-SUFFIX,geetest.com,Mainland
 HOST-SUFFIX,godic.net,Mainland
 HOST-SUFFIX,goodread.com,Mainland
@@ -296,6 +297,7 @@ HOST-SUFFIX,werewolf.53site.com,Mainland
 HOST-SUFFIX,wkcdn.com,Mainland
 HOST-SUFFIX,xdrig.com,Mainland
 HOST-SUFFIX,xhostfire.com,Mainland
+HOST-SUFFIX,xhscdn.com,Mainland
 HOST-SUFFIX,xiaohongshu.com,Mainland
 HOST-SUFFIX,xiaojukeji.com,Mainland
 HOST-SUFFIX,xiaomi.com,Mainland
@@ -322,23 +324,23 @@ HOST-SUFFIX,zhihu.com,Mainland
 HOST-SUFFIX,zhimg.com,Mainland
 HOST-SUFFIX,zimuzu.tv,Mainland
 HOST-SUFFIX,zmz002.com,Mainland
+HOST-SUFFIX,gov.cn,Mainland
 HOST-SUFFIX,cn,Mainland
 IP-CIDR,1.255.62.0/24,Mainland
-GEOIP,CN,Mainland
 HOST,analytics.strava.com,Mainland
 HOST,blzddist1-a.akamaihd.net,Mainland
 HOST,cdn.angruo.com,Mainland
 HOST,dl.google.com,Mainland
 HOST,download.jetbrains.com,Mainland
-HOST,file-igamecj.akamaized.net,Mainland
 HOST,images-cn.ssl-images-amazon.com,Mainland
 HOST,ip.istatmenus.app,Mainland
 HOST,mtalk.google.com,Mainland
-HOST,officecdn-microsoft-com.akamaized.net,Mainland
 HOST,origin-a.akamaihd.ne,Mainland
 HOST,origin-a.akamaihd.net,Mainland
+HOST,outlook.office365.com,Mainland
 HOST,safebrowsing.googleapis.com,Mainland
 HOST,sms.imagetasks.com,Mainland
+HOST,smtp.office365.com,Mainland
 HOST,steamcommunity-a.akamaihd.net,Mainland
 HOST-SUFFIX,126.com,Mainland
 HOST-SUFFIX,127.net,Mainland
@@ -359,6 +361,8 @@ HOST-SUFFIX,acs.org,Mainland
 HOST-SUFFIX,aicoinstorge.com,Mainland
 HOST-SUFFIX,aip.org,Mainland
 HOST-SUFFIX,aixifan.com,Mainland
+HOST-SUFFIX,akamaized.net,Mainland
+HOST-SUFFIX,alicloudccp.com,Mainland
 HOST-SUFFIX,alikunlun.com,Mainland
 HOST-SUFFIX,amd.com,Mainland
 HOST-SUFFIX,ams.org,Mainland
@@ -401,10 +405,9 @@ HOST-SUFFIX,chunyu.mobi,Mainland
 HOST-SUFFIX,chushou.tv,Mainland
 HOST-SUFFIX,clarivate.com,Mainland
 HOST-SUFFIX,classix-unlimited.co.uk,Mainland
-HOST-SUFFIX,cmbimg.com,Mainland
+HOST-SUFFIX,cn88.net,Mainland
 HOST-SUFFIX,com-hs-hkdy.com,Mainland
 HOST-SUFFIX,cootekservice.com,Mainland
-HOST-SUFFIX,crashlytics.com,Mainland
 HOST-SUFFIX,csdn.net,Mainland
 HOST-SUFFIX,ctrip.com,Mainland
 HOST-SUFFIX,czybjz.com,Mainland
@@ -425,7 +428,6 @@ HOST-SUFFIX,engineeringvillage.com,Mainland
 HOST-SUFFIX,faceu.mobi,Mainland
 HOST-SUFFIX,feiliao.com,Mainland
 HOST-SUFFIX,fengkongcloud.com,Mainland
-HOST-SUFFIX,firefox.com,Mainland
 HOST-SUFFIX,fjhps.com,Mainland
 HOST-SUFFIX,flyert.com,Mainland
 HOST-SUFFIX,futu5.com,Mainland
@@ -435,6 +437,7 @@ HOST-SUFFIX,gandi.net,Mainland
 HOST-SUFFIX,gazellegames.net,Mainland
 HOST-SUFFIX,geilicdn.com,Mainland
 HOST-SUFFIX,gifshow.com,Mainland
+HOST-SUFFIX,google.cn,Mainland
 HOST-SUFFIX,googletraveladservices.com,Mainland
 HOST-SUFFIX,hamreus.com,Mainland
 HOST-SUFFIX,hdbits.org,Mainland
@@ -457,6 +460,7 @@ HOST-SUFFIX,infinitynewtab.com,Mainland
 HOST-SUFFIX,iop.org,Mainland
 HOST-SUFFIX,ip-cdn.com,Mainland
 HOST-SUFFIX,ip.la,Mainland
+HOST-SUFFIX,ip138.com,Mainland
 HOST-SUFFIX,ipip.net,Mainland
 HOST-SUFFIX,ipv6-test.com,Mainland
 HOST-SUFFIX,iqiyi.com,Mainland
@@ -529,7 +533,9 @@ HOST-SUFFIX,oxfordartonline.com,Mainland
 HOST-SUFFIX,oxfordbibliographies.com,Mainland
 HOST-SUFFIX,oxfordmusiconline.com,Mainland
 HOST-SUFFIX,paypal-mktg.com,Mainland
+HOST-SUFFIX,paypal.com,Mainland
 HOST-SUFFIX,paypal.me,Mainland
+HOST-SUFFIX,paypalobjects.com,Mainland
 HOST-SUFFIX,pnas.org,Mainland
 HOST-SUFFIX,ppsimg.com,Mainland
 HOST-SUFFIX,proquest.com,Mainland
@@ -642,7 +648,10 @@ USER-AGENT,cmblife*,Mainland
 USER-AGENT,eusoft_ting_en_iphone,Mainland
 USER-AGENT,hide*,Mainland
 USER-AGENT,ting_en,Mainland
+IP-CIDR,101.32.118.0/23,Mainland
+IP-CIDR,101.32.96.0/20,Mainland
 IP-CIDR,119.28.28.28/32,Mainland
+IP-CIDR,129.226.0.0/16,Mainland
 IP-CIDR,183.128.0.0/11,Mainland
 IP-CIDR,185.188.32.0/22,Mainland
 IP-CIDR,203.205.238.0/23,Mainland
